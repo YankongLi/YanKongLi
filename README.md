@@ -63,20 +63,6 @@ AI interest       RAG systems, document understanding, engineering evaluation
 ![Protobuf](https://img.shields.io/badge/Protobuf-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YankongLi&show_icons=true&theme=default&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YankongLi&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top languages" />
-
-<br/>
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YankongLi&theme=default&hide_border=true" alt="GitHub streak" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/wakatime?username=YankongLi&layout=compact&theme=default&hide_border=true&langs_count=6&range=last_7_days" alt="WakaTime" />
-
-</div>
-
 ## 📫 Contact
 
 - GitHub: [@YankongLi](https://github.com/YankongLi)
