@@ -67,14 +67,20 @@ AI interest       RAG systems, document understanding, engineering evaluation
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YankongLi&show_icons=true&theme=default&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YankongLi&layout=compact&theme=default&hide_border=true" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YankongLi&show_icons=true&theme=default&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YankongLi&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top languages" />
+
+<br/>
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YankongLi&theme=default&hide_border=true" alt="GitHub streak" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/wakatime?username=YankongLi&layout=compact&theme=default&hide_border=true&langs_count=6&range=last_7_days" alt="WakaTime" />
 
 </div>
 
 ## 📫 Contact
 
 - GitHub: [@YankongLi](https://github.com/YankongLi)
+- Email: [gs.liyk25@gzu.edu.cn](mailto:gs.liyk25@gzu.edu.cn)
 
 ---
 
